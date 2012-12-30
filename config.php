@@ -8,7 +8,7 @@ $personal['email_address'] = 'me@jamarr.me';
 
 // Now let's add any social media pages you've created and want to share.  You can add whatever you want by following the format below.  The first item you add is the name of the social media site, and the second item you add is the URL to your page.
 
-$social_media[] = array('Github',  'https://github.com/xavix2011');
+$social_media[] = array('Github',  'https://github.com/jamarr');
 $social_media[] = array('Twitter', 'http://twitter.com/jamarr');
 $social_media[] = array('LinkedIn','https://www.linkedin.com/pub/jamarr-edwards/19/b3/356');
 $social_media[] = array('Google +','https://plus.google.com/111738204462802866143');
